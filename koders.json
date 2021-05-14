@@ -6,11 +6,6 @@
       "gender": "m"
     },
     {
-      "id": 2,
-      "name": "Walter",
-      "gender": "m"
-    },
-    {
       "id": 3,
       "name": "Mariana",
       "gender": "f"
@@ -29,6 +24,33 @@
       "id": 6,
       "name": "brisset",
       "gender": "f"
+    }
+  ],
+  "mentors": [
+    {
+      "id": 1,
+      "name": "Oso",
+      "module": "hello Koders"
+    },
+    {
+      "id": 2,
+      "name": "Melisa",
+      "module": "hello Koders"
+    },
+    {
+      "id": 3,
+      "name": "Isra",
+      "module": "maquetado"
+    },
+    {
+      "id": 4,
+      "name": "charles",
+      "module": "Back"
+    },
+    {
+      "id": 1620959061635,
+      "name": "teacher",
+      "module": "questions"
     }
   ]
 }
